@@ -1,0 +1,11 @@
+{
+  "name": "el-table-columns-controller",
+  "version": "1.0.2",
+  "description": "用于自动保存el-table列宽的小工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZhangDaLi",
+  "license": "ISC"
+}
